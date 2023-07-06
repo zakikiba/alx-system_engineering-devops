@@ -1,3 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 # Bash script
+=======
+>>>>>>> a4100632a2fb8d07597c091df74cd247feea33a1
 /bin/pwd
